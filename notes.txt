@@ -1,0 +1,25 @@
+# Part 1           User Story
+As a member of the public
+So I can order a bagel when I want to
+I'd like to add an item to my basket
+
+As a member of the public,
+So that I can change my order
+I'd like to remove an item from my basket
+
+*Objects - classes
+* @ -  data types
+* () - method
+
+
+    Objects (noun) | Messages (verb)
+        Bagel           Name
+        Basket           add/remove                  
+
+    
+    Objects | Properties            |   Messages        | Output
+    Bagel   |name @string           |   name()          |  @string                        
+    Basket  | @array[@item]         |   addBagel()      |  @number                    
+    Basket  |                       |   removeBagel()   |  @number  
+
+-
